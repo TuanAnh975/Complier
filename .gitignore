@@ -1,0 +1,4 @@
+*.o
+*~
+src/kplc
+src/kplc.exe
